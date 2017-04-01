@@ -14,7 +14,7 @@ require dirname(__FILE__).'/Modules.php';
  *
  * Install this file as application/third_party/MX/Router.php
  *
- * @copyright	Copyright (c) 2015 Wiredesignz
+ * @copyright	Copyright (c) 2017 Sabri El Gueder
  * @version 	5.5
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
